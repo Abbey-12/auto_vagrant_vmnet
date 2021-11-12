@@ -1,0 +1,1 @@
+# auto_vagrant_vmnet
